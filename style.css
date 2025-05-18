@@ -178,10 +178,10 @@ body.dark-mode .suggestions-box ul {
 /* ----------------------------------- */
 
 @media (max-width: 768px) {
-  .music-player iframe {
-    height: 152px;
+  body {
+    height: auto;
+    padding: 20px;
   }
-}
 
   .container {
     flex-direction: column;
