@@ -241,6 +241,6 @@ body.dark-mode .suggestions-box ul {
 .music-player iframe {
   width: 100% !important;
   max-width: 100%;
-  height: 152px; /* full height to show all controls */
+  height: 80px; /* full height to show all controls */
   border-radius: 12px;
 }
