@@ -173,33 +173,67 @@ body.dark-mode .suggestions-box ul {
 
 
 
+/* ----------------------------------- */
+/* RESPONSIVE DESIGN FOR MOBILE VIEW   */
+/* ----------------------------------- */
+
 @media (max-width: 768px) {
-  .suggestions-box,
-  .spotify-player {
-    margin-bottom: 20px;
+  body {
+    height: auto;
+    padding: 20px;
   }
 
-  .character-image {
-    width: 40%;
-    margin-bottom: 20px;
-  }
-
-  .mood-input-container {
-    margin-top: 20px;
-    width: 90%;
-  }
-
-  input[type="text"] {
-    font-size: 1rem;
-    padding: 10px;
-    border-radius: 10px;
-    margin-top: 10px;
+  .container {
+    flex-direction: column;
+    padding: 20px;
+    gap: 30px;
     width: 100%;
+    max-width: 100%;
   }
 
-  button {
-    padding: 10px 20px;
-    margin-top: 10px;
-    font-size: 1rem;
+  .left-panel {
+    width: 100%;
+    max-width: 100%;
+    gap: 20px;
+  }
+
+  .left-panel h1 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  .left-panel label,
+  #moodInput,
+  .suggestions-box,
+  .music-player {
+    font-size: 16px;
+  }
+
+  .suggestions-box,
+  .music-player {
+    padding: 16px;
+  }
+
+  .suggestions-box h3,
+  .music-player .song-title {
+    font-size: 18px;
+  }
+
+  .right-panel {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .right-panel img {
+    width: 80%;
+    max-width: 250px;
+  }
+
+  #darkModeToggle {
+    top: 10px;
+    right: 10px;
+    padding: 8px 12px;
+    font-size: 14px;
   }
 }
