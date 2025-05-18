@@ -41,8 +41,8 @@ const songTitle = document.getElementById('songTitle');
 // Add moods and playlist IDs
 const moodPlaylists = {
   stressed: "5jiVAt7yCJIWhGlZyGze3D",    // Your friend's playlist
-  sad: "1uNFoZAHBGtllmzznpCI3s",
-  angry: "06HL4z0CvFAxyc27GXpf02",
+  sad: "37i9dQZF1DX3rxVfibe1L0",
+  angry: "37i9dQZF1DX4WYpdgoIcn6",
   happy: "37i9dQZF1Epzi47d4IU6qi"
 };
 
