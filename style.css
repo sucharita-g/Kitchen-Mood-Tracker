@@ -237,3 +237,10 @@ body.dark-mode .suggestions-box ul {
     font-size: 14px;
   }
 }
+/* Make Spotify player responsive */
+.music-player iframe {
+  width: 100% !important;
+  max-width: 100%;
+  height: 152px; /* full height to show all controls */
+  border-radius: 12px;
+}
