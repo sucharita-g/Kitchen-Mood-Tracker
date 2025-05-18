@@ -237,3 +237,17 @@ body.dark-mode .suggestions-box ul {
     font-size: 14px;
   }
 }
+
+  /* Fix for responsive music player */
+  .music-player iframe {
+    width: 100% !important;
+    max-width: 100% !important;
+    height: 80px;
+    display: block;
+  }
+
+  .music-player {
+    overflow-x: hidden;
+  }
+}
+
