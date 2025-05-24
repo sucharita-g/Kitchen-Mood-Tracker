@@ -1,4 +1,4 @@
-Kitchen Mood Tracker
+******Kitchen Mood Tracker******
 
 
 Hi! This is a fun and helpful web app I built called Kitchen Mood Tracker. It's designed for chefs or kitchen staff to track their mood and get suggestions and music that can help improve their state of mind while working.
