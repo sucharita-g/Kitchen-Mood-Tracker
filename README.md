@@ -1,9 +1,9 @@
-******Kitchen Mood Tracker******
+# ******Kitchen Mood Tracker******
 
 
 Hi! This is a fun and helpful web app I built called Kitchen Mood Tracker. It's designed for chefs or kitchen staff to track their mood and get suggestions and music that can help improve their state of mind while working.
 
-What it does
+# What it does
 🔸Lets you type how you're feeling (like stressed, happy, sad, or angry)
 
 🔸Gives mood-based suggestions to help you feel better
@@ -14,7 +14,7 @@ What it does
 
 🔸Includes a dark mode switch for a more comfortable look
 
-Tech Stack Used
+# Tech Stack Used
 
 🔸HTML, CSS & JavaScript – For the frontend UI and dynamic behavior.
 
@@ -24,7 +24,7 @@ Tech Stack Used
 
 🔸Dark Mode – A toggle for better accessibility and comfort.
 
-How to use it
+# How to use it
 
 🔸Step 1: Get the files
   Make sure you have these 3 files in the same folder:
@@ -63,7 +63,7 @@ How to use it
 
  ● You can also switch between light and dark mode by clicking the button at the top right corner.
 
-🔸Notes
+# Notes
   
   ● This project needs an internet connection to load the Spotify playlist.
 
@@ -71,7 +71,7 @@ How to use it
 
   ● I used my friend's Spotify playlist as the default when the page loads.
 
-🔸Mood Playlists used
+# Mood Playlists used
   
  –  Stressed: My friend's chill playlist
 
@@ -81,7 +81,7 @@ How to use it
 
  –  Happy: Energetic playlist
 
-🔸Future Advancements (Planned)
+# Future Advancements (Planned)
  
   I’m actively working on expanding this project into a more intelligent assistant. Here’s what I plan to include next:
 
@@ -101,12 +101,12 @@ How to use it
 
   Integrating voice input to detect tone and emotions for hands-free usage in kitchens.
 
-🔸Mobile Friendly
+# Mobile Friendly
 
   The entire layout adjusts fluidly for phones and tablets. Whether you're a head chef using a tablet in the kitchen or checking from your phone — it works cleanly everywhere.
 
 
-🙏 Credits
+# 🙏 Credits
    
   ● Built and designed by me as a creative real-world project titled:
 
