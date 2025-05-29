@@ -117,3 +117,5 @@ This project was inspired by a close friend who works in a high-stress kitchen e
 Music is embedded using Spotify’s public embed player. All images are custom-created or sourced royalty-free.
 
 If you liked this, feel free to fork it or use it in your own portfolio...!
+
+# live demo: https://sucharita-g.github.io/Kitchen-Mood-Tracker/
